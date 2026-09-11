@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="currentColor"
+   stroke-width="2"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg2"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <path
+     style="stroke-width:3;stroke-dasharray:none"
+     d="M 3.2698925,20.419402 7.2614,18.383537 l 4.98541,2.024499 5.008513,-1.998264 4.028303,1.994227"
+     id="path8" />
+  <path
+     style="stroke-width:3;stroke-dasharray:none"
+     d="M 3.2698925,15.6316 7.2614,13.595735 l 4.98541,2.024499 5.008513,-1.998264 4.028303,1.994227"
+     id="path9" />
+  <path
+     style="stroke-width:3;stroke-dasharray:none"
+     d="M 3.2089014,10.904789 7.2004089,8.8689238 12.185819,10.893423 17.194332,8.8951588 21.222635,10.889386"
+     id="path10" />
+  <path
+     style="stroke-width:3;stroke-dasharray:none"
+     d="m 3.2089014,6.1169868 3.9915075,-2.035865 4.9854101,2.024499 5.008513,-1.998264 4.028303,1.994227"
+     id="path11" />
+</svg>

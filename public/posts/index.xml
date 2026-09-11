@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>文章 on domato&#39;s blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in 文章 on domato&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>盘古开天辟地之这个网站是怎么做出来的</title>
+      <link>http://localhost:1313/posts/website-creation/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/website-creation/</guid>
+      
+      <description>&lt;p&gt;本人还是第一次写长文博客，那就来介绍一下这个网站是怎么来的吧。&lt;/p&gt;
+&lt;p&gt;其实一开始完全没有建个人网站的想法，不过在浏览SNS的时候会见到人呼吁要制作自己的网站，见多了之后我也对建网站这件事稍微提起了一点兴趣。&lt;/p&gt;
+&lt;p&gt;Prefetcher是我的启蒙人之一。&lt;/p&gt;
+&lt;blockquote class=&#34;bluesky-embed&#34; data-bluesky-uri=&#34;at://did:plc:xtzdbt3kmdb6ef3wumhkhktd/app.bsky.feed.post/3mjajnhph3s2g&#34; data-bluesky-cid=&#34;bafyreig76yi47r47gcc6lkjplbop2vc4zi2ry2mazwlivmzr3c7lvmdnci&#34;&gt;&lt;p lang=&#34;en&#34;&gt;just to reminisce, left picture was my website from 2016, and the right one, 10 years later in 2026
+
+the indie web still lives, make your own website, that&amp;#39;s where all the charm is &amp;lt;3&lt;/p&gt;&amp;mdash; &lt;a href=&#34;https://bsky.app/profile/did:plc:xtzdbt3kmdb6ef3wumhkhktd?ref_src=embed&#34;&gt;prefetcher (@prefetcher.miku.place)&lt;/a&gt; &lt;a href=&#34;https://bsky.app/profile/did:plc:xtzdbt3kmdb6ef3wumhkhktd/post/3mjajnhph3s2g?ref_src=embed&#34;&gt;2026-04-11T19:03:15.280Z&lt;/a&gt;&lt;/blockquote&gt;&lt;script async src=&#34;https://embed.bsky.app/static/embed.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;p&gt;不过嘛&amp;hellip;本人还挺懒的，萌生了一点想法也只限于把建网站小技巧扔进收藏夹里罢了。然后就这么吃灰了&amp;hellip;&lt;/p&gt;
+&lt;p&gt;后来本人开始用上Linux,也关注了一些Linux博客。某天看到Ivon在他自己的&lt;a href=&#34;https://ivonblog.com/posts/2025120401/&#34; title=&#34;架設個人網站吧，把共鳴的訊號送往網路宇宙深處&#34;&gt;这篇博文&lt;/a&gt;提议大家制作自己的网站。应该是这篇吧不太记得了&amp;hellip;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;但大家仍應該要自己架網站，搞RSS，還要弄友站連結(blogroll)，互相推薦「有趣的網站」，不靠演算法決定你能看到什麼&amp;hellip;&lt;br&gt;
+— &lt;cite&gt;Ivon的部落格&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;我也挺认同的&amp;hellip;逛个人网站的时候经常能见到有趣的文章，而且主题相当之广泛&amp;hellip;充斥着算法的现代SNS看多了真的会很累，感觉离交流的本质已经越来越远了&amp;hellip;&lt;br&gt;
+逛个人网站浏览大家有意思的文章的同时，自己想做网站的念头也越发强烈&amp;hellip;心动不如行动！然后就开始收集资料以及询问各类前辈（？&lt;/p&gt;
+&lt;p&gt;制作网站时朋友跟fedi友给了我非常多的帮助，在此特别感谢！&lt;/p&gt;
+&lt;hr&gt;
+&lt;br&gt;
+既然决定要做网站了，那来构思一下到底要做成什么样吧～！
+&lt;p&gt;首先要做成3语网站！&lt;br&gt;
+中文用起来最顺手了肯定少不了！日文和英文也想多加练习，每篇博文都自行写多语言版本的话说不定能起到一个练习的效果呢！&lt;/p&gt;
+&lt;p&gt;其次要支持RSS！&lt;br&gt;
+总不能每次都让看官手动输入网站查看更新吧&amp;hellip;真这样我自己也会忘记查看的囧&lt;/p&gt;
+&lt;p&gt;能支持暗黑模式最好！评论区也想要！&lt;/p&gt;
+&lt;p&gt;作品集和博客要不要做成一个网站呢&amp;hellip;?最初犹豫过，现在觉得还是分开两个网站比较好&amp;hellip;&lt;/p&gt;
+&lt;p&gt;工具用的是Hugo, 本人实在是没有从0开始搭建网站的能力&amp;hellip;&lt;br&gt;
+看到不少人在推荐Hugo，而且Hugo没有图形界面可以满足我折腾bash的愿望了！！好耶～～～！&lt;/p&gt;
+&lt;p&gt;万事俱备后就开始折腾起来了&amp;hellip;&lt;/p&gt;
+&lt;hr&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;注意&lt;/strong&gt;&lt;br&gt;
+以下内容 &lt;strong&gt;不是教程&lt;/strong&gt; ，仅仅是记录此网站的制作过程！&lt;/p&gt;
+&lt;p&gt;就如切菜需要菜刀，制作网站先从下载Hugo开始！我是从Software Management下载的Hugo！不过下载完了还是对一切都一头雾水&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&amp;hellip;虽然完全搞不懂怎么用不过先从官方的&lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34;&gt;快速入门&lt;/a&gt;教程开始！&amp;hellip;&amp;hellip;结果一上来就报错！（哭唧唧）&lt;br&gt;
+后来经fedi友提醒，原来是系统包的版本太旧了&amp;hellip;然后就去官网下载安装最新版的.deb包了&amp;hellip;&lt;br&gt;
+上网看了看安装.deb包的指令貌似是这个：&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo dpkg -i DEB_PACKAGE
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;安装好最新版本的包就能照着教程正常使用了！&lt;br&gt;
+照着教程的流程走了一遍，真的一行代码都不用写，生成了一个漂亮的网站！当时真的感动极了&amp;hellip;&lt;/p&gt;
+&lt;p&gt;后面就是换个符合自己心水的主题了～！一直换一直试错，感觉现在在用的主题看起来很简洁，也支持很多我想要的功能，就这么用上了。&lt;br&gt;
+不过因为是个三语网站，需要用3个不同的RSS图标，没有的话我就自己动手改！反正又不是不会画画&amp;hellip;&lt;/p&gt;
+&lt;p&gt;什么？！图标是用代码画的？！？！&lt;br&gt;
+什么？！svg其实就是文本文件？！&lt;br&gt;
+什么？！Krita不支持保存为svg格式？！
+&lt;span style=&#39;color: grey&#39;&gt;&lt;small&gt; &lt;em&gt;后来才发现 其实是支持导入导出svg格式的&amp;hellip;（小声）&lt;/em&gt;&lt;/small&gt;&lt;/span&gt;&lt;br&gt;
+什么？！Inkscape用起来的手感跟Krita完全不一样！！画纸片人的技能毫无用武之地！！！&lt;br&gt;
+就这么震惊之余顺便学会了制作svg文件。真是太好了&amp;hellip;&lt;/p&gt;
+&lt;p&gt;评论区要怎么办呢？&lt;br&gt;
+Disqus？会售卖个人信息，不考虑！&lt;br&gt;
+Giscus？也不是人人都有Github账号，不考虑！&lt;br&gt;
+家里并没有能Self-Host的电脑，需要Self-Host的也不考虑&amp;hellip;于是就变成现在在用的Cusdis了。&lt;/p&gt;
+&lt;p&gt;可能有点跑题，同人文化圈好像都习惯使用匿名留言箱，个人博客大多都是给个邮箱让你自己去跟站长联系。
+为什么会有这种生态差异呢？&lt;br&gt;
+反正这个评论服务可以不登陆留言，留言也是我审批过后才能显示，跟匿名留言箱差别可能也不是太大吧&amp;hellip;真的有人恶评的话大不了以后关掉评论区就是了&amp;hellip;&lt;/p&gt;
+&lt;h5 id=&#34;追记&#34;&gt;追记&lt;/h5&gt;
+&lt;p&gt;评论系统改成Giscus了&amp;hellip;不过真的需要弄个评论系统吗？&lt;/p&gt;
+&lt;hr&gt;
+&lt;br&gt;
+以上就是我的建站历程了...再稍微修改一下说不定就能发布了。以后想到要改进的地方再边做边修吧...
+&lt;p&gt;还没想好以后的博客要写什么&amp;hellip;要是实在是想不到写什么干脆在这边连载Linux四格漫画算了&amp;hellip;我并不擅长写文章&amp;hellip;以上，感谢你的阅读！&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;2026-09-10-追记&#34;&gt;2026-09-10 追记&lt;/h2&gt;
+&lt;p&gt;写好这篇博客后本应去撰写翻译版本的，但是发现自己可能不想翻译，疑似又开始拖延了&amp;hellip;&lt;br&gt;
+既然如此，干脆把其他语言的版本都砍掉好了！总比因为抗拒翻译而一直放置博客要好&amp;hellip;&lt;/p&gt;
+&lt;p&gt;那之前为了制作多语种博客而做的各种准备功夫不就全都白费功夫了？是的没错&lt;br&gt;
+人的精力是有限的 不要高看自己的精力&amp;hellip;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;引用了Ivon部落格的这篇文章：&lt;a href=&#34;https://ivonblog.com/posts/2025120401/&#34;&gt;https://ivonblog.com/posts/2025120401/&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>
