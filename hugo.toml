@@ -1,5 +1,5 @@
 title = "domato's blog"
-baseURL = 'https://domatoxi.github.io/Blog/'
+baseURL = 'https://domatoxi.github.io/blog/'
 
 # This is what goes in <html lang="">
 locale = 'zh-cn'

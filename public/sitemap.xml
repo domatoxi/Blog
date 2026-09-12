@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dmtblog.netlify.app/posts/website-creation/</loc>
+    <loc>https://domatoxi.github.io/blog/posts/website-creation/</loc>
     <lastmod>2026-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dmtblog.netlify.app/</loc>
+    <loc>https://domatoxi.github.io/blog/</loc>
     <lastmod>2026-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dmtblog.netlify.app/posts/</loc>
+    <loc>https://domatoxi.github.io/blog/posts/</loc>
     <lastmod>2026-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dmtblog.netlify.app/categories/</loc>
+    <loc>https://domatoxi.github.io/blog/categories/</loc>
   </url><url>
-    <loc>https://dmtblog.netlify.app/pages/</loc>
+    <loc>https://domatoxi.github.io/blog/pages/</loc>
   </url><url>
-    <loc>https://dmtblog.netlify.app/tags/</loc>
+    <loc>https://domatoxi.github.io/blog/tags/</loc>
   </url><url>
-    <loc>https://dmtblog.netlify.app/pages/about/</loc>
+    <loc>https://domatoxi.github.io/blog/pages/about/</loc>
   </url><url>
-    <loc>https://dmtblog.netlify.app/pages/friends/</loc>
+    <loc>https://domatoxi.github.io/blog/pages/friends/</loc>
   </url>
 </urlset>
