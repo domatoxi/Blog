@@ -33,7 +33,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       DART_SASS_VERSION: 1.89.2
-      HUGO_VERSION: 0.164.0-ce2470e7012b5ab5fc4e10ebe4027e9f8d9e00dc+extended
+      HUGO_VERSION: 0.164.0
       HUGO_ENVIRONMENT: production
       TZ: America/New_York
     steps:
