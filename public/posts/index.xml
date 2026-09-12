@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>文章 on domato&#39;s blog</title>
-    <link>https://domatoxi.codeberg.page/blog/posts/</link>
+    <link>http://localhost:1313/blog/posts/</link>
     <description>Recent content in 文章 on domato&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://domatoxi.codeberg.page/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>盘古开天辟地之这个网站是怎么做出来的</title>
-      <link>https://domatoxi.codeberg.page/blog/posts/website-creation/</link>
+      <link>http://localhost:1313/blog/posts/website-creation/</link>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://domatoxi.codeberg.page/blog/posts/website-creation/</guid>
+      <guid>http://localhost:1313/blog/posts/website-creation/</guid>
       
       <description>&lt;p&gt;本人还是第一次写长文博客，那就来介绍一下这个网站是怎么来的吧。&lt;/p&gt;
 &lt;p&gt;其实一开始完全没有建个人网站的想法，不过在浏览SNS的时候会见到人呼吁要制作自己的网站，见多了之后我也对建网站这件事稍微提起了一点兴趣。&lt;/p&gt;
