@@ -1,29 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Pages on domato&#39;s blog</title>
-		<link>https://domatoxi.github.io/blog/pages/</link>
-		<description>Recent content in Pages on domato&#39;s blog</description>
-		<generator>Hugo</generator>
-		<language>zh-cn</language>
-		
-		
-		
-		
-			<atom:link href="https://domatoxi.github.io/blog/pages/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>关于</title>
-				<link>https://domatoxi.github.io/blog/pages/about/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://domatoxi.github.io/blog/pages/about/</guid>
-				<description>&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/RJbX6nS.png&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;https://i.imgur.com/h2uBTNw.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hello! This is domato&amp;rsquo;s personal blog!&lt;br&gt;&#xA;I have no energy to translate every blog I wrote, so this site will be mostly in Chinese&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;欢迎～这里是番茄的个人博客！&lt;br&gt;&#xA;可能会写点类似日记的文章，或者分享一下自己画的东西。&lt;br&gt;&#xA;缓慢建设中&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;有任何想法或者提议，随时欢迎通过下方&lt;a href=&#34;mailto:domato.contact%e2%98%85proton.me&#34;&gt;邮箱&lt;/a&gt;联系、或是通过评论区留言！&lt;/p&gt;&#xA;&lt;p&gt;本站支持RSS订阅！&lt;br&gt;&#xA;复制&lt;a href=&#34;https://domatoxi.github.io/blog/index.xml&#34;&gt;RSS链接&lt;/a&gt;后，再用RSS阅读器订阅即可！&lt;/p&gt;&#xA;&lt;p&gt;PS.本人把&lt;a href=&#34;https://www.thunderbird.net/zh-CN/thunderbird/all/&#34;&gt;Thunderbird&lt;/a&gt;当RSS阅读器来用了。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;关于我&#34;&gt;关于我&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;头像的由来&lt;/strong&gt;&lt;br&gt;&#xA;不想把自己画得过于美少女，画得跟自己现实形象太像又会觉得恶心&lt;br&gt;&#xA;懒得重新想一个自设，就把小时候想的自设拿出来用了（认真的吗）&lt;br&gt;&#xA;小时候画的自设长这样：&lt;br&gt;&#xA;&lt;img src=&#34;https://i.imgur.com/RpXDh3W.png&#34; alt=&#34;&#34;&gt;&lt;br&gt;&#xA;&lt;strong&gt;网名的由来&lt;/strong&gt;&lt;br&gt;&#xA;小时候给自己起了个中二中文网名&lt;br&gt;&#xA;不过中文名可能不方便非中文使用者称呼，又懒得起个新名字&lt;br&gt;&#xA;就把旧网名折中改了一下，变成现在这样了&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;你的网名到底是什么&lt;/strong&gt;&lt;br&gt;&#xA;有叫我面的、有叫我番茄的、有叫我domato的、有叫我🍅的、可能还有其他我自己都没印象的名字&amp;hellip;&lt;br&gt;&#xA;我不怎么在意其他人怎么叫我&amp;hellip;随便找个喜欢的叫法吧各位&amp;hellip;&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>友情链接</title>
-				<link>https://domatoxi.github.io/blog/pages/friends/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://domatoxi.github.io/blog/pages/friends/</guid>
-				<description>&lt;p&gt;Coming Soon&amp;hellip;&lt;/p&gt;</description>
-			</item>
-	</channel>
+  <channel>
+    <title>Pages on domato&#39;s blog</title>
+    <link>https://domatoxi.github.io/blog/pages/</link>
+    <description>Recent content in Pages on domato&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language><atom:link href="https://domatoxi.github.io/blog/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>友情链接</title>
+      <link>https://domatoxi.github.io/blog/pages/friends/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://domatoxi.github.io/blog/pages/friends/</guid>
+      
+      <description>&lt;p&gt;Coming Soon&amp;hellip;&lt;/p&gt;
+</description>
+      
+    </item>
+    
+  </channel>
 </rss>
