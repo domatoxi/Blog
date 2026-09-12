@@ -6,8 +6,8 @@ exclude_from_rss: true
 noComment: true
 ---
 
-![](me.png)
-![](hello.png)
+![](https://i.imgur.com/RJbX6nS.png)
+![](https://i.imgur.com/h2uBTNw.png)
 
 Hello! This is domato's personal blog!  
 I have no energy to translate every blog I wrote, so this site will be mostly in Chinese...
@@ -32,7 +32,7 @@ PS.本人把[Thunderbird](https://www.thunderbird.net/zh-CN/thunderbird/all/)当
 不想把自己画得过于美少女，画得跟自己现实形象太像又会觉得恶心  
 懒得重新想一个自设，就把小时候想的自设拿出来用了（认真的吗）  
 小时候画的自设长这样：  
-![](2.png)  
+![](https://i.imgur.com/RpXDh3W.png)  
 **网名的由来**  
 小时候给自己起了个中二中文网名  
 不过中文名可能不方便非中文使用者称呼，又懒得起个新名字  

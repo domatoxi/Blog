@@ -125,7 +125,7 @@ theme = "hugo-blog-awesome"
 
 [[params.socialIcons]]
 name = "RSS"
-url = "/index.xml"
+url = "/blog/index.xml"
 
 [[params.socialIcons]]
 name = "Bluesky"
