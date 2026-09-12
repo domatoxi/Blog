@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/posts/website-creation/</loc>
+    <loc>https://dmtblog.netlify.app/posts/website-creation/</loc>
     <lastmod>2026-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://dmtblog.netlify.app/</loc>
     <lastmod>2026-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/</loc>
+    <loc>https://dmtblog.netlify.app/posts/</loc>
     <lastmod>2026-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/categories/</loc>
+    <loc>https://dmtblog.netlify.app/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/pages/</loc>
+    <loc>https://dmtblog.netlify.app/pages/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/</loc>
+    <loc>https://dmtblog.netlify.app/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/pages/about/</loc>
+    <loc>https://dmtblog.netlify.app/pages/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/pages/friends/</loc>
+    <loc>https://dmtblog.netlify.app/pages/friends/</loc>
   </url>
 </urlset>

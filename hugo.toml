@@ -1,5 +1,5 @@
 title = "domato's blog"
-baseURL = 'https://domatoxi.codeberg.page/blog'
+baseURL = 'https://dmtblog.netlify.app/'
 
 # This is what goes in <html lang="">
 locale = 'zh-cn'
@@ -125,7 +125,7 @@ theme = "hugo-blog-awesome"
 
 [[params.socialIcons]]
 name = "RSS"
-url = "/blog/index.xml"
+url = "/index.xml"
 
 [[params.socialIcons]]
 name = "Bluesky"

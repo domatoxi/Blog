@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on domato&#39;s blog</title>
-    <link>http://localhost:1313/blog/pages/</link>
+    <link>https://dmtblog.netlify.app/pages/</link>
     <description>Recent content in Pages on domato&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="http://localhost:1313/blog/pages/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language><atom:link href="https://dmtblog.netlify.app/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>友情链接</title>
-      <link>http://localhost:1313/blog/pages/friends/</link>
+      <link>https://dmtblog.netlify.app/pages/friends/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/pages/friends/</guid>
+      <guid>https://dmtblog.netlify.app/pages/friends/</guid>
       
       <description>&lt;p&gt;Coming Soon&amp;hellip;&lt;/p&gt;
 </description>
