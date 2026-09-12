@@ -16,7 +16,7 @@ I have no energy to translate every blog I wrote, so this site will be mostly in
 可能会写点类似日记的文章，或者分享一下自己画的东西。  
 缓慢建设中...
 
-有任何想法或者提议，随时欢迎通过下方[邮箱](mailto:domato.contact@proton.me)联系、或是通过评论区留言！
+有任何想法或者提议，随时欢迎通过下方[邮箱](mailto:domato.contact★proton.me)联系、或是通过评论区留言！
 
 本站支持RSS订阅！  
 复制[RSS链接](/index.xml)后，再用RSS阅读器订阅即可！
