@@ -2,21 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>文章 on domato&#39;s blog</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://domatoxi.codeberg.page/blog/posts/</link>
     <description>Recent content in 文章 on domato&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://domatoxi.codeberg.page/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>盘古开天辟地之这个网站是怎么做出来的</title>
-      <link>http://localhost:1313/posts/website-creation/</link>
+      <link>https://domatoxi.codeberg.page/blog/posts/website-creation/</link>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/website-creation/</guid>
+      <guid>https://domatoxi.codeberg.page/blog/posts/website-creation/</guid>
       
       <description>&lt;p&gt;本人还是第一次写长文博客，那就来介绍一下这个网站是怎么来的吧。&lt;/p&gt;
 &lt;p&gt;其实一开始完全没有建个人网站的想法，不过在浏览SNS的时候会见到人呼吁要制作自己的网站，见多了之后我也对建网站这件事稍微提起了一点兴趣。&lt;/p&gt;
 &lt;p&gt;Prefetcher是我的启蒙人之一。&lt;/p&gt;
+
 &lt;blockquote class=&#34;bluesky-embed&#34; data-bluesky-uri=&#34;at://did:plc:xtzdbt3kmdb6ef3wumhkhktd/app.bsky.feed.post/3mjajnhph3s2g&#34; data-bluesky-cid=&#34;bafyreig76yi47r47gcc6lkjplbop2vc4zi2ry2mazwlivmzr3c7lvmdnci&#34;&gt;&lt;p lang=&#34;en&#34;&gt;just to reminisce, left picture was my website from 2016, and the right one, 10 years later in 2026
 
 the indie web still lives, make your own website, that&amp;#39;s where all the charm is &amp;lt;3&lt;/p&gt;&amp;mdash; &lt;a href=&#34;https://bsky.app/profile/did:plc:xtzdbt3kmdb6ef3wumhkhktd?ref_src=embed&#34;&gt;prefetcher (@prefetcher.miku.place)&lt;/a&gt; &lt;a href=&#34;https://bsky.app/profile/did:plc:xtzdbt3kmdb6ef3wumhkhktd/post/3mjajnhph3s2g?ref_src=embed&#34;&gt;2026-04-11T19:03:15.280Z&lt;/a&gt;&lt;/blockquote&gt;&lt;script async src=&#34;https://embed.bsky.app/static/embed.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;

@@ -1,3 +1,6 @@
+<!-- Source of the original shortcodes: -->
+<!-- https://www.brycewray.com/posts/2024/11/simple-hugo-shortcode-embedding-bluesky-posts/ -->
+
 {{- $link := .Get "link"  -}}
 {{- $query := querify "url" $link -}}
 {{- $request := printf "https://embed.bsky.app/oembed?%s" $query -}}
