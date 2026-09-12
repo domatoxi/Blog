@@ -141,7 +141,7 @@ url = "https://pinksea.art/did:plc:zndnaxckapyzp4q2yoeeyva4"
 
 [[params.socialIcons]]
 name = "Email"
-url = "mailto:domato.contact@proton.me"
+url = "mailto:domato.contact★proton.me"
 
 [params]
  goToTop = true
