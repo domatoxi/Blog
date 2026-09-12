@@ -147,5 +147,5 @@ url = "mailto:domato.contact@proton.me"
  goToTop = true
 
 [caches]
- [caches.images]
-  dir = ':cacheDir/images'
+  [caches.images]
+    dir = ':cacheDir/images'
