@@ -1,5 +1,5 @@
 title = "domato's blog"
-baseURL = 'https://dmtblog.netlify.app/'
+baseURL = 'https://domatoxi.github.io/Blog/'
 
 # This is what goes in <html lang="">
 locale = 'zh-cn'
