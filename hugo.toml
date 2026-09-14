@@ -143,6 +143,10 @@ url = "https://pinksea.art/did:plc:zndnaxckapyzp4q2yoeeyva4"
 name = "Email"
 url = "mailto:domato.contact★proton.me"
 
+[[params.socialIcons]]
+name = "Straw Page"
+url = "https://domatoxi.straw.page"
+
 [params]
  goToTop = true
 
